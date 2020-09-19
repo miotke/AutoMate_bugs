@@ -1,6 +1,8 @@
-# AutoMate Bugs
+# AutoMate Bug Tracker
 
-Hi! You found the public bug tracker for [AutoMate](), a car maintenance tracking app. If you run into troubles, please submit an issue here. It's quick and straight forward. I'll be activley monitoring this repo for new Issues.
+Hi! You found the public bug tracker for [AutoMate](), a car maintenance tracking app. If you run into troubles, please submit an issue here. It's quick and straight forward. I'll be actively monitoring this repo for new Issues.
+
+⚠️ **Disclaimer:** AutoMate is still a work in progress and is not in the public iOS App Store. Feel free to download the public TestFlight(beta) version of the app: https://testflight.apple.com/join/WwJH6tyO
 
 ### How to submit a bug
 
@@ -17,7 +19,7 @@ To create an issue you have to create a GitHub account. Fear not, it's quick, ea
 
 GitHub is really great and well suited for bug tracking. It also allows me to keep everything in one place. Using GitHub also allows you to search for already created Issues that have been submitted. Don't worry if you submit a duplicate. I would rather know about something multiple times vs not knowing about it at all. 
 
-#### Issue discussions
+### Issue discussions
 
 GitHub issues allow for discussions in a really well formatted way. On top of your submission, others may want to chime in on that particular issue. It also allows me to jump in so we can find a resolution and I can ship you an update. 
 

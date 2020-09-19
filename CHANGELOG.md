@@ -6,8 +6,11 @@
  
  ## Build 4
  
+<<<<<<< HEAD
  Release date: 09/18/2020
  
+=======
+>>>>>>> 3fa5fe451ef6e75f4ca9c0292c3a07ed28a14515
  - Moves the add service button down in the main view to the right of “Service history:”. Also changes the button from a wrench to a +. 
 - Fixes a bug that had the nitpick details appear twice.
 - Changed the style of the section headers in the car details view.
@@ -16,8 +19,11 @@
  
  ## Build 3
  
+<<<<<<< HEAD
  Release date: N/A
  
+=======
+>>>>>>> 3fa5fe451ef6e75f4ca9c0292c3a07ed28a14515
  - Adds support options in Settings
 - You can now add extra details about your car. Currently called “Nitpicky details”. These details are optional. This part of the form is hidden behind a toggle switch in the add car form.
 - Adds some basic form validation when adding a car. Year, Make, and Model are required fields.
@@ -25,12 +31,18 @@
  
  ## Build 2
  
+<<<<<<< HEAD
  Release date: N/A
  
+=======
+>>>>>>> 3fa5fe451ef6e75f4ca9c0292c3a07ed28a14515
  Not documented :/
  
  ## Build 1
  
+<<<<<<< HEAD
  Release date: N/A
  
+=======
+>>>>>>> 3fa5fe451ef6e75f4ca9c0292c3a07ed28a14515
  Not documented :/
