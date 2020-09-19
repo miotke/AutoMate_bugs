@@ -1,6 +1,6 @@
 # AutoMate Changelog
  
- Change log for AutoMate. This should be update for every build and version of the app. 
+ Changelog for AutoMate. This should be update for every build and version of the app. 
  
  # Version 1
  
@@ -15,7 +15,7 @@
 - Changes the image that navigates to the car details view.
  
  ## Build 3
-
+ 
  Release date: N/A
  
  - Adds support options in Settings
@@ -24,9 +24,9 @@
 - Adds two navigation bar buttons for Add Car(depicted by a car) and Add Service(depicted by a wrench). 
  
  ## Build 2
-
+ 
  Release date: N/A
-
+ 
  Not documented :/
  
  ## Build 1
