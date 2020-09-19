@@ -2,6 +2,8 @@
 
 Hi! You found the public bug tracker for [AutoMate](), a car maintenance tracking app. If you run into troubles, please submit an issue here. It's quick and straight forward. I'll be activley monitoring this repo for new Issues.
 
+⚠️ **Disclaimer:** AutoMate is still a work in progress and is not in the public iOS App Store. Feel free to download the public TestFlight(beta) version of the app: https://testflight.apple.com/join/WwJH6tyO
+
 ### How to submit a bug
 
 To create an issue you have to create a GitHub account. Fear not, it's quick, easy and will help make AutoMate better. All you need to do is create a username, supply an email address, and create a password. Bonus, it's all free! 
