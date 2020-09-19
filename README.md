@@ -1,4 +1,4 @@
-# AutoMate Bugs
+# AutoMate Bug Tracker
 
 Hi! You found the public bug tracker for [AutoMate](), a car maintenance tracking app. If you run into troubles, please submit an issue here. It's quick and straight forward. I'll be actively monitoring this repo for new Issues.
 
