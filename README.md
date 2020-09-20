@@ -26,3 +26,8 @@ GitHub issues allow for discussions in a really well formatted way. On top of yo
 ### What about feature requests? 
 
 Feel free to submit a feature request as well. Use the Feature Request template when clicking the Issues tab. 
+
+### What if I want to look for the history of changes?
+
+Check out the [CHANGELOG](https://github.com/miotke/AutoMate_bugs/blob/master/CHANGELOG.md)! This will be updated for every major and minor version of AutoMate. 
+
