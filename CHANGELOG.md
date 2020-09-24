@@ -4,6 +4,13 @@
  
  # Version 1
 
+## Build 6
+
+Release date: 
+
+- `enhancements` Adds the ability to save service logs and to start building your service history
+- `enhancements` Adds a "Thanks to" section in the Settings with links to people who have helped me thus far in building AutoMate. This list will continue to grow.
+
 ## Build 5
 
 Release date: 09/20/2020
