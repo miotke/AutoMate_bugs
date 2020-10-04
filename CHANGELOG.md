@@ -4,9 +4,21 @@
  
  # Version 1
 
+## Build 7
+ 
+Release date:
+ 
+- `bug fix` Resolves an issue with the app crashing on iOS 14.2 betas 
+- `bug fix` When saving a vehicle the view correctly dismisses and updates the root view.
+- `enhancements` Adds a button that links to the change log of the public bug tracker in the settings view.
+- `enhancements` Adds the ability to delete a vehicle from the vehicle details view.
+- `enhancements` Adds an alert to confirm that you want to delete the vehicle that is currently selected.
+- `enhancements` Adds the ability to see a service record's details by tapping on a service record's cell.
+- `known bugs` In iOS 14 there's a bug that cases the horizontal list of cars to not update until the app is relaunched. This is resolved in iOS 14.2 beta 2
+
 ## Build 6
 
-Release date: 
+Release date: 09/24/2020
 
 - `enhancements` Adds the ability to save service logs and to start building your service history
 - `enhancements` Adds a "Thanks to" section in the Settings with links to people who have helped me thus far in building AutoMate. This list will continue to grow.
@@ -43,10 +55,10 @@ Release date: N/A
  
 Release date: N/A
  
-Not documented :/
+Not documented 😕
  
 ## Build 1
  
 Release date: N/A
  
-Not documented :/
+Not documented 😕
