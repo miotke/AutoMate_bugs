@@ -4,9 +4,17 @@
  
  # Version 1
 
+## Build 8
+
+Release date: 
+
+- `bug fix` Replaced `id` with `identifier` in the Car entity of the core data model. This may require an erase and reinstall of the app.
+- `bug fix` Fixes the issue of either the app crashing or the view not dismissing when you delete a car. 
+- `enhancements` Changed the way the car detail view appears. It now comes in from the right on the navigation stack. 
+
 ## Build 7
  
-Release date:
+Release date: 10/05/2020
  
 - `bug fix` Resolves an issue with the app crashing on iOS 14.2 betas 
 - `bug fix` When saving a vehicle the view correctly dismisses and updates the root view.
@@ -14,7 +22,7 @@ Release date:
 - `enhancements` Adds the ability to delete a vehicle from the vehicle details view.
 - `enhancements` Adds an alert to confirm that you want to delete the vehicle that is currently selected.
 - `enhancements` Adds the ability to see a service record's details by tapping on a service record's cell.
-- `known bugs` In iOS 14 there's a bug that cases the horizontal list of cars to not update until the app is relaunched. This is resolved in iOS 14.2 beta 2
+- `known bugs` In iOS 14 there's a bug that cases the horizontal list of cars to not update until the app is relaunched. This is resolved in iOS 14.2 beta 2.
 
 ## Build 6
 
